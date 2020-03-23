@@ -1,3 +1,8 @@
-# Predicting_Customer_Churn_in_Telecommunication_Operators
+# Predicting Customer Churn in Telecommunication_Operators
+Project developed during the course Real-time analysis of Big Data with python and spark, offered by the Data Science Academy.<br><br>
 Customer turnover refers to a decision made by the customer on the term of business relationship. Customer loyalty and customer turnover always add up to 100%. If a company has a 60% loyalty rate, then customer loss taxes are 40%. According to the 80/20 customer profitability rule, 20% of customers are generating 80% of revenue. Therefore, it is very important to predict the users who are likely to abandon the business relationship and the factors that affect how the customer's decisions.<br>
-In this project, I predicted Customer Churn at a Telecommunications Operator.
+In this project, I predicted Customer Churn at a Telecommunications Operator.<br><br>
+
+Computer specifications:<br>
+Operational System: Linux, Ubuntu v.18.04.1<br>
+CPU Capacity: 3100MHz.
