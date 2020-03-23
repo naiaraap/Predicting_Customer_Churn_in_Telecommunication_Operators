@@ -1,0 +1,2 @@
+# Predicting_Customer_Churn_in_Telecommunication_Operators
+python project - Predicting Customer Churn in Telecommunication Operators
